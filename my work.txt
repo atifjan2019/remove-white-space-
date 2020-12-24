@@ -1,0 +1,7 @@
+@media only screen and (max-width: 768px){
+html,
+body{
+Width:100%;
+Overflow-x:hidden;
+}
+}
